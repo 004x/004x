@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**004x/004x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## HI,I'm 004x ! &#x1f44b;
+![GitHub followers](https://img.shields.io/github/followers/004x?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/004x?style=social)
 
-Here are some ideas to get you started:
+自我介绍：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 你好，我叫 004x
+- 太阳天秤，上升双子。
+- 5 号人格：观察者人格。
+- 性格内向，不善言辞 【 是喜欢二次元的死肥宅 】。
+- 俗人一个，哪怕一无所有，依旧贪财好色。
+
+
+
+一些项目：
+- Github 里的小项目，随意看看。
+
+
+希望自己：
+
+- 认真思考，努力奋斗，不做娱乐圈研究员，不做实验室黑客，能真正为平台、行业甚至国家贡献自己的力量。
+- 永远年轻，永远热泪盈眶。
+- 置身黑暗，心怀光明。燃烧自己，照亮他人。
+- ~~能遇见一个她。~~ 
+
+
+
+## &#x1f9f8; 这个人很懒 什么都没留下
+
+- &#x1f481; **身份**: 日常划水和假期卷王双料高级安全研究员 【 啊 ~ 哈哈哈哈哈 ~ 0 day 来喽 ~ / TNND，为什么不收！ 】
+- &#x1f4bb; **技能**: Java 安全 【 ~~面向对象几年，对象多得很，不建议大家学 Java~~ 】
+- &#x1f4c3; **博客**: pwn.....你们猜喽
+- &#x1f47e; **爱好**: &#x1f3b9; 梦想是成为一名琴匠，如果这辈子还有机会的话 / &#x1f4d5; 读书爱好者 /  &#x1f3ca; 为了我尚不存在的腹肌
+- &#x1f4ac; **座右铭**: 男人要禁得住诱惑
+
+
